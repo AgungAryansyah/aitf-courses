@@ -1,3 +1,7 @@
+# Datasets and trained models
+data/
+*.keras
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
